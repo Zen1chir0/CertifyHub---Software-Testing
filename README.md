@@ -16,7 +16,7 @@ A comprehensive Test Strategy and documentation suite for 'CertifyHub' to ensure
 ---
 
 ## 2. Scope of Testing
-The test will cover end-to-end test of system stability while the user safely purchases a product.
+??
 
 ### In Scope
 
