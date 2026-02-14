@@ -12,7 +12,7 @@
 ## 1. Executive Summary
 The test will focus on verification of end-to-end services together with both ends of the system (frontend (UI level of the application) as well as the backend (logic level of the application)). The test will revolve around the objective of ensuring the system delivers high quality performance while maintaining its stability throughout the test. 
 
-The project name is entitled "Test Strategy: CertifyHub", straightforward and concise. The test will cover the primary goal of the system which is to fasten and simplify the issuance of certificates and will also act as the database of certificates. These certificates are issued to OJT applicants, work immersionists, and other events.
+The project name is entitled "CertfyHub - Test-Strategy", straightforward and concise. The test will cover the primary goal of the system which is to fasten and simplify the issuance of certificates and will also act as the database of certificates. These certificates are issued to OJT applicants, work immersionists, and other events.
 
 ---
 
@@ -46,7 +46,7 @@ The test will cover end-to-end test of system stability while the admin issues c
 
 ## 3. Test Environment
 * **System/App URL:** https://certifyhub-api.azurewebsites.net/
-* **Primary Browser:** Google Chrome (Latest Version)
+* **Primary Browser:** Brave Browser (Latest Version)
 * **Mobile Verification:** QR code scanning and verification page testing will be performed on mobile devices (Android/iOS) to ensure real-world usability.
 
 ---
