@@ -77,7 +77,7 @@ All defects found will be documented to properly handle issues. The issues found
 
 ---
 
-## 6. Risks & Mitigation
+## 6. Risks & Mitigation 
 The main risks lie on the delivery and validation components of the system.
 
 | Identified Risk | Mitigation Strategy |
